@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     }
     
     func setupTableView() {
-        print("Setup tableViews")
+        print("Setup tableViews that will be shown")
     }
 
     func setupViews() {
