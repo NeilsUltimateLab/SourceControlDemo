@@ -15,6 +15,9 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
 
+    func setupViews() {
+        self.view.backgroundColor = UIColor.groupTableViewBackground
+    }
 
 }
 
