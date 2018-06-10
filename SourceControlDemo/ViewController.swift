@@ -24,5 +24,9 @@ class ViewController: UIViewController {
         self.view.backgroundColor = UIColor.groupTableViewBackground
     }
 
+    enum Direction {
+        case left
+        case right
+    }
 }
 
