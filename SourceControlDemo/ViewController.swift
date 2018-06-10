@@ -27,6 +27,7 @@ class ViewController: UIViewController {
     enum Direction {
         case left
         case right
+        case up
     }
 }
 
