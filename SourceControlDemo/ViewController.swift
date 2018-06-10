@@ -31,6 +31,7 @@ class ViewController: UIViewController {
         case down
         case topLeft
         case topRight
+        case bottomLeft
     }
 }
 
